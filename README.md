@@ -14,8 +14,10 @@ A simple recursive web crawler written in Go. Starts from a given URL (eventuall
    cd go-crawler
    ```
 2. Run the crawler:
+   ```bash
    go run main.go
-
+   ```
+   
 ## Things I want to add
 - Better code separation and internal structure
 - Logging to file
