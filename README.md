@@ -9,9 +9,10 @@ A simple recursive web crawler written in Go. Starts from a given URL (eventuall
 
 ## How to use
 1. Clone the repository:
-   '''bash
+   ```bash
    git clone https://github.com/scott-richardson-135/go-crawler.git
    cd go-crawler
+   ```
 2. Run the crawler:
    go run main.go
 
